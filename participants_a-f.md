@@ -4,6 +4,7 @@ Add a row with your name and a short description of your research (10 words or f
 
 | Name | Research |
 |------|----------|
+| Aditya Chugh | Studying new phases of matter in topological materials |
 |Abhinav Sinha| Quantum Parameter Estimation|
 |Polina|Quantum Optics|
 | Emily Nobes | Integrated Photonics for Quantum Systems |
